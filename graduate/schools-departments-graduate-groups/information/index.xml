@@ -1,0 +1,1041 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h3>Overview</h3>
+<div class="field field-type-text field-field-category-description">
+<div class="field-items">
+<div class="field-item odd">
+<p>The School of Information is UC Berkeley’s newest professional school. Located in the center of campus, the I School is a graduate research and education community committed to expanding access to information and to improving its usability, reliability, and credibility while preserving security and privacy. This requires the insights of scholars from diverse fields — information and computer science, design, social sciences, management, law, and policy.</p>
+<p>Based in UC Berkeley’s historic South Hall, roughly <a href="http://www.ischool.berkeley.edu/people/students">150 graduate students</a> and <a href="http://www.ischool.berkeley.edu/people/faculty">18 faculty members</a> form a small, multi-disciplinary collective of scholars and practitioners.</p>
+<p>The I School offers two professional master’s degrees and an academic doctoral degree. The <a href="http://www.ischool.berkeley.edu/programs/mims">MIMS program</a> trains students for careers as information professionals and emphasizes small classes and project-based learning. The <a href="http://datascience.berkeley.edu/">MIDS program</a> trains data scientists to manage and analyze the coming onslaught of big data, in a unique high-touch online degree. The <a href="http://www.ischool.berkeley.edu/programs/phd">PhD program</a> equips scholars to develop solutions and shape policies that influence how people seek, use, and share information.</p>
+</div>
+</div>
+</div>
+<h3>History</h3>
+<p>The UC Berkeley School of Information was created in 1994 to address one of society’s most compelling challenges: enabling people to create, find, manipulate, share, store, and use information in myriad forms.</p>
+<p>Originally known as the School of Information Management and Systems (SIMS), this research-and-learning enterprise became the School of Information in 2006. The I School traces its roots to the 1920s, when UC Berkeley founded its School of Librarianship, ensuring universal access to information and educating &quot;knowledge&quot; professionals well before the age of the Internet. In 1976 the School of Librarianship became the School of Library and Information Studies. </p>
+<p>The I School proudly carries forward its library school heritage through its alumni, and through an enduring commitment to making information accessible, useful, and relevant.</p>
+<h3>Undergraduate Program</h3>
+<p>There is no undergraduate program offered by the School of Information.</p>
+<h3>Graduate Programs</h3>
+<p><a href="/archive/2017-18/graduate/degree-programs/information-data-science/">Information and Data Science</a>: MIDS<br/>
+<a href="/archive/2017-18/graduate/degree-programs/information-management-systems/">Information Management and Systems</a>: MIMS<br/>
+<a href="/archive/2017-18/graduate/degree-programs/information-management-systems/">Information Management and Systems</a>: PhD</p>
+  
+]]>
+</text>
+<coursestext>
+<![CDATA[
+<h3>Information</h3>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO C8</span> 
+<span class="title">Foundations of Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Summer 2018 8 Week Session, Spring 2018, Fall 2017<br/>
+Foundations of data science from three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic</span><span class="deschide"> data, document collections, geographical data, and social networks. It delves into social and legal issues surrounding data analysis, including issues of privacy and data ownership.</span><br/>
+ <a href="" class="btn-readmore"><span>Foundations of Data Science:</span> Read More [+]</a></p>
+<div id="904" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This course may be taken on its own, but students are encouraged to take it concurrently with a data science connector course (numbered 88 in a range of departments)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of lecture and 2-2 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 4 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> COMPSCI C8/STAT C8</p></div>
+<p><a href="" class="btn-readless"><span>Foundations of Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO W18</span> 
+<span class="title">Python Fundamentals for Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2018 10 Week Session, Summer 2017 10 Week Session, Summer 2016 10 Week Session<br/>
+A fast-paced introduction to the Python programming language geared toward students of data science. The course introduces a range of Python objects and control structures, then builds on these with classes on object-oriented programming. The last section of the course is devoted to Python’s system of packages for data analysis. Students will gain experience in different styles of programming</span><span class="deschide">, including scripting, object-oriented design, test-driven design, and functional programming. Aside from Python, the course also covers use of the command line, coding and presentation with Jupyter notebooks, and source control with Git and GitHub.</span><br/>
+ <a href="" class="btn-readmore"><span>Python Fundamentals for Data Science:</span> Read More [+]</a></p>
+<div id="709" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Previous experience in a general-purpose programming language is strongly recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 10 weeks - 6 hours of web-based lecture per week</p><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Laskowski</p></div>
+<p><a href="" class="btn-readless"><span>Python Fundamentals for Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 88A</span> 
+<span class="title">Data and Ethics</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2017, Fall 2016, Spring 2016<br/>
+This course provides an introduction to critical and ethical issues surrounding data and society. It blends social and historical perspectives on data with ethics, policy, and case examples to help students develop a workable understanding of current ethical issues in data science. Ethical and policy-related concepts addressed include: research ethics; privacy and surveillance; data and discrimination; and the “black box” of algorithms. Importantly</span><span class="deschide">, these issues will be addressed throughout the lifecycle of data--from collection to storage to analysis and application. Course assignments will emphasize researcher and practitioner reflexivity, allowing students to explore their own social and ethical commitments.</span><br/>
+ <a href="" class="btn-readmore"><span>Data and Ethics:</span> Read More [+]</a></p>
+<div id="406" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Upon completion of the course, students will be able to critically assess their own work and education in the area of data science.<br/>
+Upon completion of the course, students will be able to identify and articulate basic ethical and policy-based frameworks.<br/>
+Upon completion of the course, students will understand the relationship between data, ethics, and society</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This course is meant to be taken concurrently with Computer Science C8/Statistics C8/Information C8. Students may take more than one 88 (data science connector) course if they wish, ideally concurrent with or after having taken the C8 course</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> 2-hour integrated lab/lecture/discussion</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Data and Ethics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 98</span> 
+<span class="title">Directed Group Study for Lower Division Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2015, Fall 2014<br/>
+Lectures and small group discussions focusing on topics of interest, varying from semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study for Lower Division Undergraduates:</span> Read More [+]</a></p>
+<div id="722" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study for Lower Division Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 103</span> 
+<span class="title">History of Information</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2017<br/>
+This course explores the history of information and associated technologies, uncovering why we think of ours as &quot;the information age.&quot; We will select moments in the evolution of production, recording, and storage from the earliest writing systems to the world of Short Message Service (SMS) and blogs. In every instance, we'll be concerned with both what and when and how and why, and we will keep returning to the question of technological determinism:</span><span class="deschide"> how do technological developments affect society and vice versa?</span><br/>
+ <a href="" class="btn-readmore"><span>History of Information:</span> Read More [+]</a></p>
+<div id="420" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper level undergraduates</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Duguid, Nunberg</p><p><strong>Formerly known as:</strong> Information C103/Cognitive Science C103/History C192/Media Studies C104C</p></div>
+<p><a href="" class="btn-readless"><span>History of Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 114</span> 
+<span class="title">User Experience Research</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+Methods and concepts of creating design requirements and evaluating prototypes and existing systems. Emphasis on computer-based systems, including mobile system and ubiquitous computing, but may be suitable for students interested in other domains of design for end-users. Includes quantitative and qualitative methods as applied to design, usually for short-term term studies intended to provide guidance for designers.</span><br/>
+ <a href="" class="btn-readmore"><span>User Experience Research:</span> Read More [+]</a></p>
+<div id="434" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 114 after taking 214.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>User Experience Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 159</span> 
+<span class="title">Natural Language Processing</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017<br/>
+This course introduces students to natural language processing and exposes them to the variety of methods available for reasoning about text in computational systems. NLP is deeply interdisciplinary, drawing on both linguistics and computer science, and helps drive much contemporary work in text analysis (as used in computational social science, the digital humanities, and computational journalism). We will focus on major algorithms used in NLP for various</span><span class="deschide"> applications (part-of-speech tagging, parsing, coreference resolution, machine translation) and on the linguistic phenomena those algorithms attempt to model. Students will implement algorithms and create linguistically annotated data on which those algorithms depend.</span><br/>
+ <a href="" class="btn-readmore"><span>Natural Language Processing:</span> Read More [+]</a></p>
+<div id="534" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Computer Science 61B; Computer Science 70, Computer Science C100, Math 55, Statistics C100, Statistics 134 or Statistics 140; strong programming skills</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Bamman</p></div>
+<p><a href="" class="btn-readless"><span>Natural Language Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO C167</span> 
+<span class="title">Virtual Communities/Social Media</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Spring 2018, Fall 2017<br/>
+With the advent of virtual communities and online social networks, old questions about the meaning of human social behavior have taken on renewed significance. Using a variety of online social media simultaneously, and drawing upon theoretical literature in a variety of disciplines, this course delves into discourse about community across disciplines. This course will enable students to establish both theoretical and experiential foundations</span><span class="deschide"> for making decisions and judgments regarding the relations between mediated communication and human community.</span><br/>
+ <a href="" class="btn-readmore"><span>Virtual Communities/Social Media:</span> Read More [+]</a></p>
+<div id="753" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Also listed as:</strong> SOCIOL C167</p></div>
+<p><a href="" class="btn-readless"><span>Virtual Communities/Social Media:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 188</span> 
+<span class="title">Behind the Data: Humans and Values</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018<br/>
+This course blends social and historical perspectives on data with ethics, law, policy, and case examples to help students understand current ethical and legal issues in data science and machine learning. Legal, ethical, and policy-related concepts addressed include: research ethics; privacy and surveillance; bias and discrimination; and oversight and accountability. These issues will be addressed throughout the lifecycle of data--from collection to storage to analysis</span><span class="deschide"> and application. The course emphasizes strategies, processes, and tools for attending to ethical and legal issues in data science work. Course assignments emphasize researcher and practitioner reflexivity, allowing students to explore their own social and ethical commitments.</span><br/>
+ <a href="" class="btn-readmore"><span>Behind the Data: Humans and Values:</span> Read More [+]</a></p>
+<div id="899" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Critically assess one's own work and education in data science<br/>
+Identify and articulate basic ethical and policy frameworks<br/>
+Understand the relationship between one's own work and ethical frameworks and legal obligations</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Mulligan</p></div>
+<p><a href="" class="btn-readless"><span>Behind the Data: Humans and Values:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 190</span> 
+<span class="title">Special Topics in Information</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+A seminar focusing on topics of current interest. Topics will vary. A seminar paper will be required. Open to students from other departments.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Information:</span> Read More [+]</a></p>
+<div id="389" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 198</span> 
+<span class="title">Directed Group Study for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2015, Fall 2014, Spring 2014<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="977" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 199</span> 
+<span class="title">Individual Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Individual study of topics in information management and systems under faculty supervision.</span><br/>
+ <a href="" class="btn-readmore"><span>Individual Study:</span> Read More [+]</a></p>
+<div id="383" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 202</span> 
+<span class="title">Information Organization and Retrieval</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+This course introduces the intellectual foundations of information organization and retrieval: conceptual modeling, semantic representation, vocabulary and metadata design, classification, and standardization, as well as information retrieval practices, technology, and applications, including computational processes for analyzing information in both textual and non-textual formats.</span><br/>
+ <a href="" class="btn-readmore"><span>Information Organization and Retrieval:</span> Read More [+]</a></p>
+<div id="954" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students should have a working knowledge of the Python programming language</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Bamman</p></div>
+<p><a href="" class="btn-readless"><span>Information Organization and Retrieval:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 203</span> 
+<span class="title">Social Issues of Information</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course is designed to be an introduction to the topics and issues associated with information and information technology and its role in society. Throughout the semester we will consider both the consequence and impact of technologies on social groups and on social interaction and how society defines and shapes the technologies that are produced. Students will be exposed to a broad range of applied and practical problems, theoretical</span><span class="deschide"> issues, as well as methods used in social scientific analysis. The four sections of the course are: 1) theories of technology in society, 2) information technology in workplaces 3) automation vs. humans, and 4) networked sociability.</span><br/>
+ <a href="" class="btn-readmore"><span>Social Issues of Information:</span> Read More [+]</a></p>
+<div id="704" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Burrell</p></div>
+<p><a href="" class="btn-readless"><span>Social Issues of Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 205</span> 
+<span class="title">Information Law and Policy</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course uses examples from various commercial domains—retail, health, credit, entertainment, social media, and biosensing/quantified self—to explore legal and ethical issues including freedom of expression, privacy, research ethics, consumer protection, information and cybersecurity, and copyright. The class emphasizes how existing legal and policy frameworks constrain, inform, and enable the architecture, interfaces, data practices,</span><span class="deschide"> and consumer facing policies and documentation of such offerings; and, fosters reflection on the ethical impact of information and communication technologies and the role of information professionals in legal and ethical work.</span><br/>
+ <a href="" class="btn-readmore"><span>Information Law and Policy:</span> Read More [+]</a></p>
+<div id="665" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor required for nonmajors</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 7 weeks - 4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Mulligan</p></div>
+<p><a href="" class="btn-readless"><span>Information Law and Policy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 206</span> 
+<span class="title">Software Prototyping for Data Science and Information Management</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+This course introduces software skills used in building prototype scripts for applications in data science and information management. The course gives an overview of procedural programming, object-oriented programming, and functional programming techniques in the Python scripting language, together with an overview of fundamental data structures, associated algorithms, and asymptotic performance analysis. Students will watch a set of instructional</span><span class="deschide"> videos covering material and will have four hours of laboratory-style course contact each week.</span><br/>
+ <a href="" class="btn-readmore"><span>Software Prototyping for Data Science and Information Management:</span> Read More [+]</a></p>
+<div id="61" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor for nonmajors</p><p><strong>Credit Restrictions:</strong> Course must be completed for a letter grade to fulfill degree requirements.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 7 weeks - 4 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Tygar</p></div>
+<p><a href="" class="btn-readless"><span>Software Prototyping for Data Science and Information Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 213</span> 
+<span class="title">User Interface Design and Development</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+User interface design and human-computer interaction. Examination of alternative design. Tools and methods for design and development. Human computer interaction. Methods for measuring and evaluating interface quality.</span><br/>
+ <a href="" class="btn-readmore"><span>User Interface Design and Development:</span> Read More [+]</a></p>
+<div id="635" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>User Interface Design and Development:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 214</span> 
+<span class="title">Needs and Usability Assessment</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course addresses concepts and methods of user experience research, from understanding and identifying needs, to evaluating concepts and designs, to assessing the usability of products and solutions. We emphasize methods of collecting and interpreting qualitative data about user activities, working both individually and in teams, and translating them into design decisions. Students gain hands-on practice with observation, interview, survey</span><span class="deschide">, focus groups, and expert review. Team activities and group work are required during class and for most assignments. Additional topics include research in enterprise, consulting, and startup organizations, lean/agile techniques, mobile research approaches, and strategies for communicating findings.</span><br/>
+ <a href="" class="btn-readmore"><span>Needs and Usability Assessment:</span> Read More [+]</a></p>
+<div id="635" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Needs and Usability Assessment:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 216</span> 
+<span class="title">Computer-Mediated Communication</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2016, Spring 2016, Spring 2015<br/>
+This course covers the practical and theoretical issues associated with computer-mediated communication (CMC) systems (e.g., email, newsgroups, wikis, online games, etc.). We will focus on the analysis of CMC practices, the relationship between technology and behavior, and the design and implementation issues associated with constructing CMC systems. This course primarily takes a social scientific approach (including research from social psychology</span><span class="deschide">, economics, sociology, and communication).</span><br/>
+ <a href="" class="btn-readmore"><span>Computer-Mediated Communication:</span> Read More [+]</a></p>
+<div id="167" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Cheshire</p></div>
+<p><a href="" class="btn-readless"><span>Computer-Mediated Communication:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 218</span> 
+<span class="title">Concepts of Information</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2016, Spring 2015<br/>
+As it's generally used, &quot;information&quot; is a collection of notions, rather than a single coherent concept. In this course, we'll examine conceptions of information based in information theory, philosophy, social science, economics, and history. Issues include: How compatible are these conceptions; can we talk about &quot;information&quot; in the abstract? What work do these various notions play in discussions of literacy, intellectual</span><span class="deschide"> property, advertising, and the political process? And where does this leave &quot;information studies&quot; and &quot;the information society&quot;?</span><br/>
+ <a href="" class="btn-readmore"><span>Concepts of Information:</span> Read More [+]</a></p>
+<div id="439" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Duguid, Nunberg</p></div>
+<p><a href="" class="btn-readless"><span>Concepts of Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 219</span> 
+<span class="title">Privacy, Security, and Cryptography</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Fall 2013, Fall 2012<br/>
+Policy and technical issues related to insuring the accuracy and privacy of information. Encoding and decoding techniques including public and private key encryption. Survey of security problems in networked information environment including viruses, worms, trojan horses, Internet address spoofing.</span><br/>
+ <a href="" class="btn-readmore"><span>Privacy, Security, and Cryptography:</span> Read More [+]</a></p>
+<div id="279" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in the School of Information or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Tygar</p></div>
+<p><a href="" class="btn-readless"><span>Privacy, Security, and Cryptography:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 225</span> 
+<span class="title">Managing in Information-Intensive Companies</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+This course focuses on managing people in information-intensive firms and industries, such as information technology industries. Topics include managing knowledge workers; managing teams (including virtual ones); collaborating across disparate units, giving and receiving feedback; managing the innovation process (including in eco-systems); managing through networks; and managing when using communication tools (e.g., tele-presence). The course relies</span><span class="deschide"> heavily on cases as a pedagogical form.</span><br/>
+ <a href="" class="btn-readmore"><span>Managing in Information-Intensive Companies:</span> Read More [+]</a></p>
+<div id="17" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hansen</p></div>
+<p><a href="" class="btn-readless"><span>Managing in Information-Intensive Companies:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 232</span> 
+<span class="title">Applied Behavioral Economics for Information Systems</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+&quot;Behavioral Economics&quot; is one important perspective on how information impacts human behavior. The goal of this class is to deploy a few important theories about the relationship between information and behavior, into practical settings — emphasizing the design of experiments that can now be incorporated into many 'applications' in day-to-day life. Truly 'smart systems' will have built into them precise, testable propositions about how</span><span class="deschide"> human behavior can be modified by what the systems tell us and do for us. So let's design these experiments into our systems from the ground up! This class develops a theoretically informed, practical point of view on how to do that more effectively and with greater impact.<br/>
+<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Applied Behavioral Economics for Information Systems:</span> Read More [+]</a></p>
+<div id="205" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Information 232 after completing Information 290 sect 6 (Fall 13).</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Weber</p></div>
+<p><a href="" class="btn-readless"><span>Applied Behavioral Economics for Information Systems:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 234</span> 
+<span class="title">Information Technology Economics, Strategy, and Policy</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+Application of economic tools and principles, including game theory, industrial organization, information economics, and behavioral economics, to analyze business strategies and public policy issues surrounding information technologies and IT industries. Topics include: economics of information; economics of information goods, services, and platforms; strategic pricing; strategic complements and substitutes; competition models; network industry</span><span class="deschide"> structure and telecommunications regulation; search and the &quot;long tail&quot;; network cascades and social epidemics; network formation and network structure; peer production and crowdsourcing; interdependent security and privacy.</span><br/>
+ <a href="" class="btn-readmore"><span>Information Technology Economics, Strategy, and Policy:</span> Read More [+]</a></p>
+<div id="500" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> <br/>
+INFO234 is a graduate level course in the school's topical area of Information Economics and Policy, and can be taken by the masters and doctoral students to satisfy their respective degree requirements.</p><p><strong>Student Learning Outcomes:</strong> <br/>
+Students will learn to identify, describe, and analyze business strategies and public policy issues of particular relevance to the information industry. Students will learn and apply economic tools and principles to analyze phenomena such as platform competition, social epidemics, and peer production, and current policy issues such as network neutrality and information privacy. Through integrated assignments and project work, the students will apply the theoretical concepts and analytic tools learned in lectures and readings to develop and evaluate a business model, product, or service of their choosing, e.g., a start-up idea they are pursuing.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Chuang</p></div>
+<p><a href="" class="btn-readless"><span>Information Technology Economics, Strategy, and Policy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 236</span> 
+<span class="title">Privacy Law for Technologists</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+Information privacy law profoundly shapes how internet-enabled services work. This course translates regulatory demands flowing from the growing field of privacy and security law to those who are creating interesting and transformative internet-enabled services. We focus both on formal requirements of the law and on how technology might accommodate regulatory demands and goals. Topics include: Computer Fraud and Abuse Act, unfair/deceptive trade practices, Electronic</span><span class="deschide"> Communications Privacy Act, children’s privacy, big data and discrimination, Digital Millennium Copyright Act, intermediary liability issues, ediscovery and data retention, anti-marketing laws, and technical requirements of the European Union-United States Privacy Shield.</span><br/>
+ <a href="" class="btn-readmore"><span>Privacy Law for Technologists:</span> Read More [+]</a></p>
+<div id="896" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hoofnagle</p></div>
+<p><a href="" class="btn-readless"><span>Privacy Law for Technologists:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 239</span> 
+<span class="title">Technology and Delegation</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017<br/>
+The introduction of technology increasingly delegates responsibility to technical actors, often reducing traditional forms of transparency and challenging traditional methods for accountability. This course explores the interaction between technical design and values including: privacy, accessibility, fairness, and freedom of expression. We will draw on literature from design, science and technology studies, computer science, law, and ethics, as well as primary</span><span class="deschide"> sources in policy, standards and source code. We will investigate approaches to identifying the value implications of technical designs and use methods and tools for intentionally building in values at the outset.</span><br/>
+ <a href="" class="btn-readmore"><span>Technology and Delegation:</span> Read More [+]</a></p>
+<div id="115" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Mulligan</p></div>
+<p><a href="" class="btn-readless"><span>Technology and Delegation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 247</span> 
+<span class="title">Information Visualization and Presentation</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+The design and presentation of digital information. Use of graphics, animation, sound, visualization software, and hypermedia in presenting information to the user. Methods of presenting complex information to enhance comprehension and analysis. Incorporation of visualization techniques into human-computer interfaces. Course must be completed for a letter grade to fulfill degree requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Information Visualization and Presentation:</span> Read More [+]</a></p>
+<div id="207" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Information 206, Computer Science 160, or knowledge of programming and data structures with consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hearst</p></div>
+<p><a href="" class="btn-readless"><span>Information Visualization and Presentation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 251</span> 
+<span class="title">Applied Machine Learning</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Fall 2017<br/>
+Provides a theoretical and practical introduction to modern techniques in applied machine learning. Covers key concepts in supervised and unsupervised machine learning, including the design of machine learning experiments, algorithms for prediction and inference, optimization, and evaluation. Students will learn functional, procedural, and statistical programming techniques for working with real-world data.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Machine Learning:</span> Read More [+]</a></p>
+<div id="992" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> • Effectively design, execute, and critique experimental and non-experimental methods from statistics, machine learning, and econometrics.<br/>
+• Implement basic algorithms on structured and unstructured data, and evaluate the performance of these algorithms on a variety of real-world datasets.<br/>
+• Understand the difference between causal and non-causal relationships, and which situations and methods are appropriate for both forms of analysis.<br/>
+• Understand the principles, advantages, and disadvantages of different algorithms for supervised and unsupervised machine learning.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Info 206, or equivalent course in Python programming; Info 271B, or equivalent graduate-level course in statistics or econometrics; or permission of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Blumenstock</p></div>
+<p><a href="" class="btn-readless"><span>Applied Machine Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 253</span> 
+<span class="title">Web Architecture</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+This course is a survey of Web technologies, ranging from the basic technologies underlying the Web (URI, HTTP, HTML) to more advanced technologies being used in the the context of Web engineering--for example, structured data formats and Web programming frameworks. The goal of this course is to provide an overview of the technical issues surrounding the Web today, and to provide a solid and comprehensive perspective of the Web's constantly evolving</span><span class="deschide"> landscape.</span><br/>
+ <a href="" class="btn-readmore"><span>Web Architecture:</span> Read More [+]</a></p>
+<div id="840" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory programming</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Web Architecture:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 254</span> 
+<span class="title">Data Mining and Analytics</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018<br/>
+This course introduces students to practical fundamentals of data mining and machine learning with just enough theory to aid intuition building. The course is project-oriented, with a project beginning in class every week and to be completed outside of class by the following week, or two weeks for longer assignments. The in-class portion of the project is meant to be collaborative, with the instructor working closely with groups to understand the learning objectives</span><span class="deschide"> and help them work through any logistics that may be slowing them down. Weekly lectures introduce the concepts and algorithms which will be used in the upcoming project. Students leave the class with hands-on data mining and data engineering skills they can confidently apply.</span><br/>
+ <a href="" class="btn-readmore"><span>Data Mining and Analytics:</span> Read More [+]</a></p>
+<div id="977" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Conduct manual feature engineering (from domain knowledge) vs. machine induced featurization (representation learning).<br/>Develop intuition in various machine learning classification algorithms (e.g. decision trees, neural networks, recurrent neural networks, support vector machines), and clustering techniques (e.g. k-­means, spectral, skip-gram).<br/>Foster critical thinking about real world actionability from analytics.<br/>Provide an overview of issues in research and practice that will shape the complexion of data science across a variety of domains.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Knowledge of basic Python programming</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Pardos</p></div>
+<p><a href="" class="btn-readless"><span>Data Mining and Analytics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 256</span> 
+<span class="title">Applied Natural Language Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+This course examines the state-of-the-art in applied Natural Language Processing (also known as content analysis and language engineering), with an emphasis on how well existing algorithms perform and how they can be used (or not) in applications. Topics include part-of-speech tagging, shallow parsing, text classification, information extraction, incorporation of lexicons and ontologies into text analysis, and question answering. Students will</span><span class="deschide"> apply and extend existing software tools to text-processing problems.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Natural Language Processing:</span> Read More [+]</a></p>
+<div id="565" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Proficient programming in python (programs of at least 200 lines of code), proficient with basic statistics and probabilities</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hearst</p></div>
+<p><a href="" class="btn-readless"><span>Applied Natural Language Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 257</span> 
+<span class="title">Database Management</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2017, Fall 2015<br/>
+Introduction to relational, hierarchical, network, and object-oriented database management systems. Database design concepts, query languages for database applications (such as SQL), concurrency control, recovery techniques, database security. Issues in the management of databases. Use of report writers, application generators, high-level interface generators.</span><br/>
+ <a href="" class="btn-readmore"><span>Database Management:</span> Read More [+]</a></p>
+<div id="644" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Larson</p></div>
+<p><a href="" class="btn-readless"><span>Database Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 259</span> 
+<span class="title">Natural Language Processing</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017<br/>
+This course introduces students to natural language processing and exposes them to the variety of methods available for reasoning about text in computational systems. NLP is deeply interdisciplinary, drawing on both linguistics and computer science, and helps drive much contemporary work in text analysis (as used in computational social science, the digital humanities, and computational journalism). We will focus on major algorithms used in NLP for various</span><span class="deschide"> applications (part-of-speech tagging, parsing, coreference resolution, machine translation) and on the linguistic phenomena those algorithms attempt to model. Students will implement algorithms and create linguistically annotated data on which those algorithms depend.</span><br/>
+ <a href="" class="btn-readmore"><span>Natural Language Processing:</span> Read More [+]</a></p>
+<div id="233" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Familiarity with data structures, algorithms, linear algebra, and probability</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Bamman</p></div>
+<p><a href="" class="btn-readless"><span>Natural Language Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO C260F</span> 
+<span class="title">Machine Learning in Education</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017<br/>
+This course covers computational approaches to the task of modeling learning and improving outcomes in Intelligent Tutoring Systems (ITS) and Massive Open Online Courses (MOOCs). We will cover theories and methodologies underpinning current approaches to knowledge discovery and data mining in education and survey the latest developments in the broad field of human learning research. The course is project based; teams will be introduced to online learning</span><span class="deschide"> platforms and their datasets with the objective of pairing data analysis with theory or implementation. Literature review will add context and grounding to projects.</span><br/>
+ <a href="" class="btn-readmore"><span>Machine Learning in Education:</span> Read More [+]</a></p>
+<div id="226" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Suggested background includes one programming course and familiarity with one statistical/computational software package</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Pardos</p><p><strong>Also listed as:</strong> EDUC C260F</p></div>
+<p><a href="" class="btn-readless"><span>Machine Learning in Education:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO C262</span> 
+<span class="title">Theory and Practice of Tangible User Interfaces</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+This course explores the theory and practice of Tangible User Interfaces, a new approach to Human Computer Interaction that focuses on the physical interaction with computational media. The topics covered in the course include theoretical framework, design examples, enabling technologies, and evaluation of Tangible User Interfaces. Students will design and develop experimental Tangible User Interfaces using physical computing prototyping tools</span><span class="deschide"> and write a final project report.</span><br/>
+ <a href="" class="btn-readmore"><span>Theory and Practice of Tangible User Interfaces:</span> Read More [+]</a></p>
+<div id="783" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Ryokai</p><p><strong>Also listed as:</strong> NWMEDIA C262</p></div>
+<p><a href="" class="btn-readless"><span>Theory and Practice of Tangible User Interfaces:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO C263</span> 
+<span class="title">Technologies for Creativity and Learning</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2015, Spring 2014<br/>
+How does the design of new educational technology change the way people learn and think? How do we design systems that reflect our understanding of how we learn? This course explores issues on designing and evaluating technologies that support creativity and learning. The class will cover theories of creativity and learning, implications for design, as well as a survey of new educational technologies such as works in computer supported collaborative learning</span><span class="deschide">, digital manipulatives, and immersive learning environments.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Technologies for Creativity and Learning:</span> Read More [+]</a></p>
+<div id="768" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Ryokai</p><p><strong>Also listed as:</strong> NWMEDIA C263</p></div>
+<p><a href="" class="btn-readless"><span>Technologies for Creativity and Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO C265</span> 
+<span class="title">Interface Aesthetics</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+This course will cover new interface metaphors beyond desktops (e.g., for mobile devices, computationally enhanced environments, tangible user interfaces) but will also cover visual design basics (e.g., color, layout, typography, iconography) so that we have systematic and critical understanding of aesthetically engaging interfaces. Students will get a hands-on learning experience on these topics through course projects, design critiques</span><span class="deschide">, and discussions, in addition to lectures and readings.</span><br/>
+ <a href="" class="btn-readmore"><span>Interface Aesthetics:</span> Read More [+]</a></p>
+<div id="63" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Ryokai</p><p><strong>Also listed as:</strong> NWMEDIA C265</p></div>
+<p><a href="" class="btn-readless"><span>Interface Aesthetics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 271B</span> 
+<span class="title">Quantitative Research Methods for Information Systems and Management</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Spring 2017<br/>
+Introduction to many different types of quantitative research methods, with an emphasis on linking quantitative statistical techniques to real-world research methods. Introductory and intermediate topics include: defining research problems, theory testing, casual inference, probability, and univariate statistics. Research design and methodology topics include: primary/secondary survey data analysis, experimental designs, and coding qualitative</span><span class="deschide"> data for quantitative analysis.</span><br/>
+ <a href="" class="btn-readmore"><span>Quantitative Research Methods for Information Systems and Management:</span> Read More [+]</a></p>
+<div id="996" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Introductory statistics recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Cheshire</p></div>
+<p><a href="" class="btn-readless"><span>Quantitative Research Methods for Information Systems and Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 272</span> 
+<span class="title">Qualitative Research Methods for Information Systems and Management</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Fall 2016, Fall 2014<br/>
+Theory and practice of naturalistic inquiry. Grounded theory. Ethnographic methods including interviews, focus groups, naturalistic observation. Case studies. Analysis of qualitative data. Issues of validity and generalizability in qualitative research.</span><br/>
+ <a href="" class="btn-readmore"><span>Qualitative Research Methods for Information Systems and Management:</span> Read More [+]</a></p>
+<div id="382" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Burrell</p></div>
+<p><a href="" class="btn-readless"><span>Qualitative Research Methods for Information Systems and Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 283</span> 
+<span class="title">Information and Communications Technology for Development</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2017<br/>
+This seminar reviews current literature and debates regarding Information and Communication Technologies and Development (ICTD). This is an interdisciplinary and practice-oriented field that draws on insights from economics, sociology, engineering, computer science, management, public health, etc.</span><br/>
+ <a href="" class="btn-readmore"><span>Information and Communications Technology for Development:</span> Read More [+]</a></p>
+<div id="607" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Saxenian</p><p><strong>Formerly known as:</strong> Information C283</p></div>
+<p><a href="" class="btn-readless"><span>Information and Communications Technology for Development:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 290</span> 
+<span class="title">Special Topics in Information</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Spring 2018, Fall 2017<br/>
+Specific topics, hours, and credit may vary from section to section, year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Information:</span> Read More [+]</a></p>
+<div id="122" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> <br/><span style="width: 15px; display: inline-block;"></span>7.5 weeks - 2-6 hours of lecture per week<br/><span style="width: 15px; display: inline-block;"></span>15 weeks - 1-4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 290A</span> 
+<span class="title">Special Topics in Information</span> 
+<span class="hours">1 or 2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2015, Fall 2014<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Information:</span> Read More [+]</a></p>
+<div id="629" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> <br/><span style="width: 15px; display: inline-block;"></span>5 weeks - 3 hours of lecture per week<br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 2 hours of lecture per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-2 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Information Systems and Management 290A</p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 290M</span> 
+<span class="title">Special Topics in Management</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+Specific topics, hours, and credit may vary from section to section and year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Management:</span> Read More [+]</a></p>
+<div id="481" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> <br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-6 hours of lecture per week<br/><span style="width: 15px; display: inline-block;"></span>15 weeks - 1-4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Management:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 290T</span> 
+<span class="title">Special Topics in Technology</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Fall 2017, Spring 2017<br/>
+Specific topics, hours, and credit may vary from section to section and year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Technology:</span> Read More [+]</a></p>
+<div id="20" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> <br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-7.5 hours of lecture per week<br/><span style="width: 15px; display: inline-block;"></span>15 weeks - 1-4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Technology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 290TA</span> 
+<span class="title">Information Organization Laboratory</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2016, Spring 2016, Fall 2015<br/>
+Students will build tools to explore and apply theories of information organization and retrieval. Students will implement various concepts covered in the concurrent 202 course through small projects on topics like controlled vocabularies, the semantic web, and corpus analysis. We will also experiment with topics suggested by students during the course. Students will develop skills in rapid prototyping of web-based projects using Python, XML</span><span class="deschide">, and jQuery.</span><br/>
+ <a href="" class="btn-readmore"><span>Information Organization Laboratory:</span> Read More [+]</a></p>
+<div id="3" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> It is recommended that students take 202 concurrently, or have taken it in the past</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Information Organization Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 291</span> 
+<span class="title">Special Topics in Information</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+Specific topics, hours, and credit may vary from section to section, year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Information:</span> Read More [+]</a></p>
+<div id="576" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p><p><strong>Instructor:</strong> Hoofnagle</p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Information:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 293</span> 
+<span class="title">Curricular Practical Training for International Students</span> 
+<span class="hours">0.0 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Summer 2016 10 Week Session, Spring 2016<br/>
+This is a zero-unit independent study course for international students doing internships under the Curricular Practical Training program. The course will be individually supervised and must be approved by the head graduate adviser.</span><br/>
+ <a href="" class="btn-readmore"><span>Curricular Practical Training for International Students:</span> Read More [+]</a></p>
+<div id="248" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> 10 weeks - 0 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Curricular Practical Training for International Students:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 294</span> 
+<span class="title">Doctoral Research and Theory Workshop</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2017<br/>
+An intensive weekly discussion of current and ongoing research by Ph.D. students with a research interest in issues of information (social, legal, technical, theoretical, etc.). Our goal is to focus on critiquing research problems, theories, and methodologies from multiple perspectives so that we can produce high-quality, publishable work in the interdisciplinary area of information research. Circulated material may include dissertation chapters, qualifying papers,</span><span class="deschide"> article drafts, and/or new project ideas. We want to have critical and productive discussion, but above all else we want to make our work better: more interesting, more accessible, more rigorous, more theoretically grounded, and more like the stuff we enjoy reading.</span><br/>
+ <a href="" class="btn-readmore"><span>Doctoral Research and Theory Workshop:</span> Read More [+]</a></p>
+<div id="843" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> PhD students only</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of workshop per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Cheshire</p></div>
+<p><a href="" class="btn-readless"><span>Doctoral Research and Theory Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 295</span> 
+<span class="title">Doctoral Colloquium</span> 
+<span class="hours">1 Unit</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Spring 2018, Fall 2017<br/>
+Colloquia, discussion and readings designed to introduce students to the range of interests of the school.</span><br/>
+ <a href="" class="btn-readmore"><span>Doctoral Colloquium:</span> Read More [+]</a></p>
+<div id="177" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Ph.D. standing in the School of Information</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of colloquium per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Doctoral Colloquium:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 296A</span> 
+<span class="title">Seminar</span> 
+<span class="hours">2 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Spring 2018, Fall 2017<br/>
+Topics in information management and systems and related fields. Specific topics vary from year to year.</span><br/>
+ <a href="" class="btn-readmore"><span>Seminar:</span> Read More [+]</a></p>
+<div id="908" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-4 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 298</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Group projects on special topics in information management and systems.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="15" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><p><strong>Summer:</strong> 8 weeks - 1.5-7.5 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 298A</span> 
+<span class="title">Directed Group Work on Final Project</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2016, Spring 2015, Spring 2014<br/>
+The final project is designed to integrate the skills and concepts learned during the Information School Master's program and helps prepare students to compete in the job market. It provides experience in formulating and carrying out a sustained, coherent, and significant course of work resulting in a tangible work product; in project management, in presenting work in both written and oral form; and, when appropriate, in working in a multidisciplinary</span><span class="deschide"> team. Projects may take the form of research papers or professionally-oriented applied work.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Work on Final Project:</span> Read More [+]</a></p>
+<div id="625" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor. Course must be taken for a letter grade to fulfill degree requirements</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Work on Final Project:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 299</span> 
+<span class="title">Individual Study</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2016 8 Week Session, Spring 2016, Fall 2015<br/>
+Individual study of topics in information management and systems under faculty supervision.</span><br/>
+ <a href="" class="btn-readmore"><span>Individual Study:</span> Read More [+]</a></p>
+<div id="748" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 2-22.5 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 375</span> 
+<span class="title">Teaching Assistance Practicum</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+Discussion, reading, preparation, and practical experience under faculty supervision in the teaching of specific topics within information management and systems. Does not count toward a degree.</span><br/>
+ <a href="" class="btn-readmore"><span>Teaching Assistance Practicum:</span> Read More [+]</a></p>
+<div id="751" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Professional course for teachers or prospective teachers</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p><p><strong>Instructor:</strong> Duguid</p></div>
+<p><a href="" class="btn-readless"><span>Teaching Assistance Practicum:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">INFO 602</span> 
+<span class="title">Individual Study for Doctoral Students</span> 
+<span class="hours">1 - 5 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D. degree.</span><br/>
+ <a href="" class="btn-readmore"><span>Individual Study for Doctoral Students:</span> Read More [+]</a></p>
+<div id="694" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-5 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information/Graduate examination preparation</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study for Doctoral Students:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>+ </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>David Bamman, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>+ Robert Berring, <i>Professor</i>. </strong>China, law, contracts, Chinese law.<br/><a href="http://vcresearch.berkeley.edu/node/14437"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jenna Burrell, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>Coye Cheshire, <i>Associate Professor</i>. </strong>Sociology, trust, social media, social psychology, social networks, collective action, social exchange, information exchange, social incentives, reputation, internet research, online research, online dating, online behavior.<br/><a href="http://vcresearch.berkeley.edu/node/14116"target="_blank">Research Profile</a></p><p class="facitem"><strong>John Chuang, <i>Professor</i>. </strong>Computer networking, computer security, economic incentives, ICTD.<br/><a href="http://vcresearch.berkeley.edu/node/15010"target="_blank">Research Profile</a></p><p class="facitem"><strong>Paul Duguid, <i>Adjunct Professor</i>. </strong>Trademark, information, communities of practice.<br/><a href="http://vcresearch.berkeley.edu/node/16403"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert J. Glushko, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Morten Hansen, <i>Professor</i>. </strong></p><p class="facitem"><strong>Marti A. Hearst, <i>Professor</i>. </strong>Information retrieval, human-computer interaction, user interfaces, information visualization, web search, search user interfaces, empirical computational linguistics, natural language processing, text mining, social media.<br/><a href="http://vcresearch.berkeley.edu/node/14819"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ray Larson, <i>Professor</i>. </strong>Information Retrieval system design and evaluation, database management.<br/><a href="http://vcresearch.berkeley.edu/node/14031"target="_blank">Research Profile</a></p><p class="facitem"><strong>Deirdre Mulligan, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>Geoffrey D. Nunberg, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Zach Pardos, <i>Assistant Professor</i>. </strong>Education Data Science, Learning Analytics, Big Data in Education, data mining, Data Privacy and Ethics, Computational Psychometrics, Digital Learning Environments, Cognitive Modeling, Bayesian Knowledge Tracing, Formative Assessment, Learning Maps, machine learning.<br/><a href="http://vcresearch.berkeley.edu/node/16864"target="_blank">Research Profile</a></p><p class="facitem"><strong>David H. Reiley, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Kimiko Ryokai, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>Pamela Samuelson, <i>Professor</i>. </strong>Public policy, intellectual property law, new information technologies, traditional legal regimes, information management, copyright, software protection and cyberlaw.<br/><a href="http://vcresearch.berkeley.edu/node/15406"target="_blank">Research Profile</a></p><p class="facitem"><strong>Annalee Saxenian, <i>Professor</i>. </strong>Innovation, information management, entrepreneurship, Silicon Valley, regional economic development, high skilled immigration, Asian development.<br/><a href="http://vcresearch.berkeley.edu/node/14571"target="_blank">Research Profile</a></p><p class="facitem"><strong>Doug Tygar, <i>Professor</i>. </strong>Privacy, technology policy, computer security, electronic commerce, software engineering, reliable systems, embedded systems, computer networks, cryptography, cryptology, authentication, ad hoc networks.<br/><a href="http://vcresearch.berkeley.edu/node/15560"target="_blank">Research Profile</a></p><p class="facitem"><strong>Steven Weber, <i>Professor</i>. </strong>Political science, international security, international political economy, information science.<br/><a href="http://vcresearch.berkeley.edu/node/15601"target="_blank">Research Profile</a></p><p class="facitem"><strong>Qiang Xiao, <i>Adjunct Professor</i>. </strong></p><h4>Lecturers</h4><p class="facitem"><strong>Brooks D. Ambrose, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Lefteris Anastasopoulos, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Olukayode Segun Ashaolu, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Kurt Beyer, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Dav Clark, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Steven Fadden, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Alexander Gilgur, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Benjamin T. Gimpert, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Nathaniel Stanley Good, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Annette Greiner, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Quentin R. Hardy, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Anna Lauren Hoffmann, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Todd Michael Holloway, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Douglas Alex Hughes, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Jez Humble, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Coco Krumme, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Arash Nourian, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Emmanouil Papangelis, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Daniel Percival, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Daniel Perry, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Elisabeth Prescott, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Dmitry Rekesh, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Blaine Gary Robbins, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Ali Sanaei, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Juanjie Joyce Shen, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>David Steier, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Andreas Weigend, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Peter Frank Weis, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Jake Ryland Williams, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Scott Young, <i>Lecturer</i>. </strong></p><h4>Visiting Faculty</h4><p class="facitem"><strong>Ramakrishna Akella, <i>Visiting Professor</i>. </strong></p><p class="facitem"><strong>Paul Laskowski, <i>Visiting Assistant Professor</i>. </strong></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Michael Buckland, <i>Professor Emeritus</i>. </strong>Information management, information retrieval, metadata, library services.<br/><a href="http://vcresearch.berkeley.edu/node/14406"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael D. Cooper, <i>Professor Emeritus</i>. </strong>Analysis, design, database management systems, implementation and evaluation of information systems, computer performance monitoring and evaluation, and library automation.<br/><a href="http://vcresearch.berkeley.edu/node/14107"target="_blank">Research Profile</a></p><p class="facitem"><strong>William S. Cooper, <i>Professor Emeritus</i>. </strong></p><p class="facitem"><strong>M. E. Maron, <i>Professor Emeritus</i>. </strong></p><p class="facitem"><strong>Nancy A. Van House, <i>Professor Emeritus</i>. </strong>Digital libraries, science, information management, technology studies, knowledge communities, user needs, information tools, artifacts, participation of users.<br/><a href="http://vcresearch.berkeley.edu/node/15568"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

@@ -1,0 +1,18 @@
+#header .courtesy .grid a.ask-oski {
+    position:relative;
+    padding-right: 33px;
+}
+#header .courtesy .grid a.ask-oski svg {
+    position: absolute;
+    right: 6px;
+    top: 7px;
+    height: 19px;
+    width: 19px;
+    margin-left: 5px;
+    fill:#fff;
+    }
+
+#header .courtesy .grid a.ask-oski:hover svg,
+#header .courtesy .grid a.ask-oski:focus svg {
+    fill:#edbb5a;
+}

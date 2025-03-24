@@ -1,0 +1,681 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<h3>Bachelor of Arts (BA)</h3>
+<p><span>Cognitive Science is the cross-disciplinary study of the structure and processes of human cognition and their computational simulation or modeling. This interdisciplinary program is designed to give students an understanding of questions dealing with human cognition, such as concept formation, visual perception, the acquisition and processing of natural language, and human reasoning and problem solving.</span></p>
+<p>The program draws on relevant courses found within the fields of anthropology, biology, computer science, education, linguistics, philosophy, and psychology, as well as specially designed lower and upper division courses in cognitive science. </p>
+<h3>Declaring the Major</h3>
+<p>For prerequisites required before declaring the major, please see the Major Requirements tab. Students interested in the major should consult <a href="http://cogsci.berkeley.edu">http://cogsci.berkeley.edu</a> and then <a href="http://cogsci.berkeley.edu/make-advising-appointment">schedule an appointment with the student academic adviser</a>.  The Cognitive Science office is located in 140 Stephens Hall.</p>
+<h3>Honors Program</h3>
+<p>Cognitive Science majors who wish to graduate with honors must have an overall GPA of 3.30 or higher in all work completed at the University and a 3.30 GPA or higher in the major program at the time of graduation. In addition, they must complete a thesis of high quality, based upon independent study with a member of the Cognitive Science faculty and marked by satisfactory completion of at least three units in any of the following courses: <span class="sc_courseinline">COG SCI H195A</span>, <span class="sc_courseinline">COG SCI H195B</span>, or <span class="sc_courseinline">COG SCI 199</span>.  Please visit the <a href="http://cogsci.berkeley.edu/honors">Cognitive Science Honors webpage for more information</a>.</p>
+<h3>Minor Program</h3>
+<p>There is no minor program in Cognitive Science.</p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext>
+<![CDATA[
+<div>
+<p>In addition to the University, campus, and college requirements listed on the College Requirements tab, students must fulfill the following requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>All courses taken to fulfill major requirements must be taken for a letter grade.</li>
+	<li>A lower division requirement may be repeated one time only with the repeated grade being final.  For all other groups, students may repeat courses one time only with the repeated grade being final.</li>
+	<li>All students must complete at least 30 upper division units.</li>
+	<li>A minimum grade point average (GPA) of 2.0 must be maintained in all courses used by the major and for upper division courses used by the major.</li>
+	<li>No more than two upper division courses may be used to simultaneously fulfill requirements in a double major. No more than one upper division course may be used to simultaneously fulfill requirements for a student's minor program, with the exception of minors offered outside of the College of Letters &amp; Science.</li>
+	<li>Please note that <span class="sc_courseinline">COG SCI 198</span>, <span class="sc_courseinline">COG SCI 199</span>, <span class="sc_courseinline">COG SCI H195A</span>, and <span class="sc_courseinline">COG SCI H195B</span> may not be used to fulfill upper division requirements.</li>
+</ol>
+<p>For information regarding all requirements outside the major, including breadth requirements, residence requirements and unit requirements, please see the College Requirements tab.</p>
+<h3>Summary of Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td colspan="2"><span class="courselistcomment">Lower division prerequisites: three courses</span></td><td class="hourscol">10-12</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Addtional lower division requirements: two courses</span></td><td class="hourscol">7</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Upper division distribution requirements: six courses</span></td><td class="hourscol">18-24</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Upper division electives: three courses</span></td><td class="hourscol">9-12</td></tr>
+<tr class="listsum"><td colspan="2">Total Units</td><td class="hourscol">44-55</td></tr></tbody></table>
+
+<h3>Lower Division Prerequisites</h3>
+<p><em>Note:  For students (freshmen and transfer) admitted to Berkeley Fall 2015 and later, a “C” grade or higher in each of the three prerequisite courses will be required for admission to the major. This is in addition to a 2.0 overall Berkeley GPA. For students (freshmen and transfer) admitted to Berkeley Spring 2015 and earlier, an average GPA of 2.0 or higher in the three prerequisites is required for admission to the major. This is in addition to a 2.0 overall Berkeley GPA.</em></p>
+</div>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol">COG SCI 1</td><td>Introduction to Cognitive Science</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or COG SCI N1</td><td colspan="2"> Introduction to Cognitive Science</td></tr>
+<tr class="odd"><td class="codecol">MATH 1A</td><td>Calculus (preferred)</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or MATH 16A</td><td colspan="2"> Analytic Geometry and Calculus</td></tr>
+<tr class="even lastrow"><td class="codecol">COMPSCI 61A</td><td>The Structure and Interpretation of Computer Programs</td><td class="hourscol">4</td></tr>
+<tr class="orclass even lastrow"><td class="codecol orclass">or ENGIN 7</td><td colspan="2"> Introduction to Computer Programming for Scientists and Engineers</td></tr>
+</tbody></table>
+
+<h3>Lower Division Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol">MCELLBI C61</td><td>Brain, Mind, and Behavior</td><td class="hourscol">3</td></tr>
+<tr class="orclass even firstrow"><td class="codecol orclass">or MCELLBI C64</td><td colspan="2"> Exploring the Brain: Introduction to Neuroscience</td></tr>
+<tr class="odd lastrow"><td class="codecol">MATH 55</td><td>Discrete Mathematics</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd lastrow"><td class="codecol orclass">or COMPSCI 70</td><td colspan="2"> Discrete Mathematics and Probability Theory</td></tr>
+</tbody></table>
+
+<h3><span>Upper Division Distribution Requirements</span></h3>
+<p>Select one course from each of the following six areas. Courses that are listed within more than one area of concentration can be counted toward only one requirement.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Cognitive Neuroscience</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ANTHRO 107</div></td><td>Evolution of the Human Brain</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI/PSYCH C127</div></td><td>Cognitive Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 117</div></td><td>Human Neuropsychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 133</div></td><td>Psychology of Sleep</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Cognitive Psychology</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI C100/PSYCH C120</div></td><td>Basic Issues in Cognition</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI C102/PSYCH C129</div></td><td>Scientific Approaches to Consciousness</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI/PSYCH C126</div></td><td>Perception</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS C146/PSYCH C143</div></td><td>Language Acquisition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 122</div></td><td>Introduction to Human Learning and Memory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 164</div></td><td>Social Cognition</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Computational Modeling</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI 131</div></td><td>Computational Models of Cognition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI 188</div></td><td>Introduction to Artificial Intelligence</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Linguistics</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI C101/LINGUIS C105</div></td><td>Cognitive Linguistics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI/LINGUIS C142</div></td><td>Language and Thought</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI/LINGUIS C147</div></td><td>Language Disorders</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 100</div></td><td>Introduction to Linguistic Science</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Philosophy</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 122</div></td><td>Theory of Knowledge</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 132</div></td><td>Philosophy of Mind</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 133</div></td><td>Philosophy of Language</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 135</div></td><td>Theory of Meaning</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 136</div></td><td>Philosophy of Perception</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Society, Culture, and Cognition</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ANTHRO 166</div></td><td>Language, Culture, and Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI C103/HISTORY C192/MEDIAST C104C/INFO C103</div></td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI/LINGUIS C104</div></td><td>The Mind, Language, and Politics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ECON 119</div></td><td>Psychology and Economics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EDUC 140AC/W140/W140A</div></td><td>The Art of Making Meaning: Educational Perspectives on Literacy and Learning in a Global World</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 150</div></td><td>Sociolinguistics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 107</div></td><td>Buddhist Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 160</div></td><td>Social Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 164</div></td><td>Social Cognition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 166AC</div></td><td>Cultural Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent">SOCIOL 150</div></td><td>Social Psychology</td><td class="hourscol"></td></tr>
+</tbody></table>
+
+<div>
+<h3>Upper Division Electives</h3>
+<p>In addition to completing the six distribution groups, students must complete at least three additional elective courses.  Students may wish to focus elective options on an unofficial concentration, which would consist of three courses, all within one of the six Cognitive Science categories. Students who choose to concentrate should select at least two of their three electives from that area. These two within-area electives, together with that area's distribution requirement, comprise the concentration. Concentrations are not recorded on the student's transcript or diploma, and progress toward their completion is not tracked by the student's adviser.  Please see a Cognitive Science adviser if you have a question about focusing your electives on a particular area.</p>
+<p>Select three courses from the following list:</p>
+</div>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ANTHRO 149</div></td><td>Psychological Anthropology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ANTHRO 160AC</div></td><td>Forms of Folklore</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ANTHRO 161</div></td><td>Narrative Folklore</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COG SCI C140/LINGUIS C160</div></td><td>Quantitative Methods in Linguistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI 160</div></td><td>User Interface Design and Development</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI 170</div></td><td>Efficient Algorithms and Intractable Problems</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI 186</div></td><td>Introduction to Database Systems</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI/VIS SCI C280</div></td><td>Computer Vision</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI 287</div></td><td>Advanced Robotics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">COMPSCI 288</div></td><td>Natural Language Processing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EDUC 224A</div></td><td>Mathematical Thinking and Problem Solving</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EDUC C229A/PSYCH C223</div></td><td>Proseminar: Problem Solving and Understanding</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">INFO 146</div></td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 106</div></td><td>Metaphor</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 110</div></td><td>Phonetics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 115</div></td><td>Morphology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 120</div></td><td>Syntax</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 121</div></td><td>Logical Semantics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 123</div></td><td>Pragmatics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 125</div></td><td>Gesture, Cognition, and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 130</div></td><td>Comparative and Historical Linguistics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS/SLAVIC C139</div></td><td>Language Spread</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 151</div></td><td>Language and Gender</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 158</div></td><td>Computational Methods</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 170</div></td><td>History, Structure, and Sociolinguistics of a Particular Language</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">LINGUIS 181</div></td><td>Lexical Semantics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MCELLBI 160</div></td><td>Cellular and Molecular Neurobiology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MCELLBI 160L</div></td><td>Neurobiology Laboratory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MCELLBI 161</div></td><td>Circuit, Systems and Behavioral Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MCELLBI 165</div></td><td>Neurobiology of Disease</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MCELLBI 166</div></td><td>Biophysical Neurobiology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MEDIAST 101</div></td><td>Visual Communications</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MEDIAST 102</div></td><td>Effects of Mass Media</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MUSIC 108/108M</div></td><td>Music Perception and Cognition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">MUSIC 109/109M</div></td><td>Music Cognition: The Mind Behind the Musical Ear</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">NATAMST 151</div></td><td>Native American Philosophy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 128</div></td><td>Philosophy of Science</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 138</div></td><td>Philosophy of Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 140A</div></td><td>Intermediate Logic</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 140B</div></td><td>Intermediate Logic</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 176</div></td><td>Hume</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 178</div></td><td>Kant</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 185</div></td><td>Heidegger</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 186B</div></td><td>Later Wittgenstein</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PHILOS 188</div></td><td>Phenomenology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">POL SCI 161</div></td><td>Public Opinion, Voting and Participation</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">POL SCI 164A</div></td><td>Political Psychology and Public Policy,Political Psychology and Involvement</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 110</div></td><td>Introduction to Biological Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 114</div></td><td>Biology of Learning</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 121</div></td><td>Animal Cognition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 125</div></td><td>The Developing Brain</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">PSYCH 167AC</div></td><td>Stigma and Prejudice</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">RHETOR 103A</div></td><td>Approaches and Paradigms in the History of Rhetorical Theory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">RHETOR 103B</div></td><td>Approaches and Paradigms in the History of Rhetorical Theory II</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">RHETOR 110</div></td><td>Advanced Argumentative Writing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">RHETOR 170</div></td><td>Rhetoric of Social Science</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent">VIS SCI 265</div></td><td>Neural Computation</td><td class="hourscol"></td></tr>
+</tbody></table>
+
+]]>
+</majorrequirementstext>
+<collegerequirementstext>
+<![CDATA[
+ <p>Undergraduate students in the College of Letters &amp; Science must fulfill the following requirements in addition to those required by their major program.</p> <p>For detailed lists of courses that fulfill college requirements, please review the <a href="/2017-18/undergraduate/colleges-schools/letters-science/">College of Letters &amp; Sciences</a> page in this Guide.</p> <h3><a href="http://writing.berkeley.edu/node/78"><span id="docs-internal-guid-82322469-d403-b6fc-99fe-5be6e0865dad">Entry Level Writing</span></a></h3> <p><span id="docs-internal-guid-82322469-d403-c602-c395-1fb0f53c604b">All students who will enter the University of California as freshmen must demonstrate their command of the English language by fulfilling the Entry Level Writing requirement. Fulfillment of this requirement is also a prerequisite to enrollment in all reading and composition courses at UC Berkeley. </span></p> <h3><a href="/2017-18/undergraduate/colleges-schools/letters-science/american-history-institutions-requirement/"><span id="docs-internal-guid-82322469-d403-ed90-bc30-8e7c7e9092f7">American History and American Institutions</span></a></h3> <p><span id="docs-internal-guid-82322469-d403-fe3e-933e-7102e097ef4b">The American History and Institutions requirements are based on the principle that a US resident graduated from an American university, should have an understanding of the history and governmental institutions of the United States.</span></p> <h3><a href="http://americancultures.berkeley.edu/students/courses"><span id="docs-internal-guid-82322469-d404-3abc-dc51-fc563caacff1">American Cultures</span></a></h3> <p><span id="docs-internal-guid-82322469-d404-47e1-1ad4-b918d33461cf">American Cultures is the one requirement that all undergraduate students at Cal need to take and pass in order to graduate. The requirement offers an exciting intellectual environment centered on the study of race, ethnicity and culture of the United States. AC courses offer students opportunities to be part of research-led, highly accomplished teaching environments, grappling with the complexity of American Culture.</span></p> <h3><span id="docs-internal-guid-82322469-d404-a7b1-d295-ee03b476bcfe">Quantitative Reasoning</span></h3> <p><span id="docs-internal-guid-82322469-d404-cbac-1c7a-d74abefae398">The Quantitative Reasoning requirement is designed to ensure that students graduate with basic understanding and competency in math, statistics, or computer science. The requirement may be satisfied by exam or by taking an approved course.</span></p> <h3><span id="docs-internal-guid-82322469-d404-ff23-6ff3-47abec092456">Foreign Language</span></h3> <p><span id="docs-internal-guid-82322469-d405-12d9-db19-1b37f6639ef7">The Foreign Language requirement may be satisfied by demonstrating proficiency in reading comprehension, writing, and conversation in a foreign language equivalent to the second semester college level, either by passing an exam or by completing approved course work.</span></p> <h3><span id="docs-internal-guid-82322469-d405-3e15-2491-27223f91e87d">Reading and Composit</span>ion</h3> <p><span id="docs-internal-guid-82322469-d405-4ef4-4b87-0d26195a0d3c">In order to provide </span>a solid foundation in reading, writing, and critical thinking the College requires two semesters of lower division work in composition in sequence. Students must complete a first-level reading and composition course by the end of their second semester and a second-level course by the end of their fourth semester.</p> <h3><span id="docs-internal-guid-79a9fe70-d405-7c7e-e34f-837b91cc1d58">Breadth Requirements</span></h3> <p><span id="docs-internal-guid-82322469-d405-9db4-c30e-bca05ecf44f3">The undergraduate breadth requirements provide Berkeley students with a rich and varied educational experience outside of their major program. As the foundation of a liberal arts education, breadth courses give students a view into the intellectual life of the University while introducing them to a multitude of perspectives and approaches to research and scholarship. Engaging students in new disciplines and with peers from other majors, the breadth experience strengthens interdisciplinary connections and context that prepares Berkeley graduates to understand and solve the complex issues of their day.</span></p> <h3><span id="docs-internal-guid-abca8c8f-d405-c4ad-0be7-1638c654345c">Unit Requirements</span></h3> <ul> 	<li> 	<p>120 total units, including at least 60 L&amp;S units</p> 	</li> 	<li> 	<p>Of the 120 units, 36 must be upper division units</p> 	</li> 	<li>Of the 36 upper division units, 6 must be taken in courses offered outside your major department</li> </ul> <h3><span id="docs-internal-guid-2bb674c5-d406-43a4-39ed-40d6e86d6760">Residence Requirements</span></h3> <p><span id="docs-internal-guid-82322469-d406-8d38-492a-067b2e0bac2d">For units to be considered in &quot;residence,&quot; you must be registered in courses on the Berkeley campus as a student in the College of Letters &amp; Science. Most students automatically fulfill the residence requirement by attending classes here for four years. In general, there is no need to be concerned about this requirement, unless you go abroad for a semester or year or want to take courses at another institution or through UC Extension during your senior year. In these cases, you should make an appointment to meet an adviser to determine how you can meet the Senior Residence Requirement.</span></p> <p><span id="docs-internal-guid-82322469-d406-a2e5-35d5-82895d287218">Note: Courses taken through UC Extension do not count toward residence.</span></p> <h3><span id="docs-internal-guid-44b2bced-d406-cb13-a0f5-0c6f75ed8972">Senior Residence Requirement</span></h3> <p><span id="docs-internal-guid-82322469-d406-e3bd-f620-e9bef1331f97">After you become a senior (with 90 semester units earned toward your BA degree), you must complete at least 24 of the remaining 30 units in residence in at least two semesters. To count as residence, a semester must consist of at least 6 passed units. Intercampus Visitor, EAP, and UC Berkeley-Washington Program (UCDC) units are excluded.</span></p> <p><span id="docs-internal-guid-82322469-d406-f7f7-c9da-c2732368bc4e">You may use a Berkeley Summer Session to satisfy one semester of the Senior Residence requirement, provided that you successfully complete 6 units of course work in the Summer Session and that you have been enrolled previously in the college.</span></p> <h3><span id="docs-internal-guid-abb18f5b-d407-0e0f-9d41-83c0ea3c3c7b">Modified Senior Residence Requirement</span></h3> <p><span id="docs-internal-guid-82322469-d407-3956-aeef-b67b71969fca">Participants in the UC Education Abroad Program (EAP) or the UC Berkeley Washington Program (UCDC) may meet a Modified Senior Residence requirement by completing 24 (excluding EAP) of their final 60 semester units in residence. At least 12 of these 24 units must be completed after you have completed 90 units.</span></p> <h3><span id="docs-internal-guid-62f287bf-d407-4ca6-5bbd-2d1393418d66">Upper Division Residence Requirement</span></h3> <p><span id="docs-internal-guid-82322469-d407-6060-9575-98782777275a">You must complete in residence a minimum of 18 units of upper division courses (excluding EAP units), 12 of which must satisfy the requirements for your major.</span></p>
+]]>
+</collegerequirementstext>
+<studentlearninggoalstext>
+<![CDATA[
+<h3>Mission</h3>
+<p>Cognitive Science is an interdisciplinary field of inquiry that is concerned with the acquisition, representation, and use of knowledge by individual minds, brains, and machines, as well as groups, institutions, and other social entities. Because the fundamental purpose of the University, as a social institution, is the preservation, generation, and transmission of knowledge, cognitive science speaks to the heart of the University's mission. By engaging faculty from psychology, philosophy, linguistics, computer science, neuroscience, and anthropology, sociology, and other social sciences in common purpose, cognitive science constitutes a microcosm of the University as a whole. Berkeley's Cognitive Science Program is almost unique in terms of the scope of our approach to the field.</p>
+<p>Cognitive Science major students are expected to approach problems of knowledge using the tools of several different disciplines: philosophy, psychology, linguistics, computer science, neuroscience, and various social sciences. This expectation is reflected in a demanding curriculum that moves from a broad introductory survey course (<span class="sc_courseinline">COG SCI 1</span>), to a six-course distribution requirement covering the philosophy of mind, cognitive psychology, linguistics, computational modeling and artificial intelligence, neuroscience, and various social sciences. After fulfilling their distribution requirement, students have the opportunity to concentrate further study in one of these six fields, and to complete an honors thesis.</p>
+<h3>Learning Goals for the Major</h3>
+<p>By the end of their undergraduate careers, cognitive science majors are expected to understand and critically evaluate:</p>
+<ol>
+	<li>Research and theory in cognitive psychology, including perception, attention, learning, memory, reasoning, problem-solving, judgment, and decision-making.</li>
+	<li>Research and theory in linguistics, with special attention to the relation between language and thought.</li>
+	<li>Various approaches to artificial intelligence, and the computational modeling of cognitive processes.</li>
+	<li>The biological bases of cognitive functions, as uncovered by cognitive neuroscience.</li>
+	<li>Classic and contemporary work on the philosophy of mind, including the mind-body problem, mental causation, freedom of the will, and the nature of consciousness.</li>
+	<li>The sociocultural context of individual cognition, including the social construction and organization of knowledge, cultural differences in cognition, the history of information, etc.</li>
+</ol>
+<h3>Skills</h3>
+<p>We also expect that students will have acquired the following skills for lifelong learning and effective citizenship:</p>
+<ol>
+	<li>Formulating a well-organized argument supported by evidence.</li>
+	<li>Effectively written, spoken, and graphical communication.</li>
+	<li>Problem-solving in cognitive science and its constituent fields.</li>
+	<li>Applying critical thinking skills in new and complex situations.</li>
+	<li>Using probability and statistics in reasoning.</li>
+	<li>Understanding the social implications of theory and research in cognitive science for responsible professional, civic, and ethical behavior.</li>
+</ol>
+]]>
+</studentlearninggoalstext>
+<academicopportunitiestext>
+<![CDATA[
+<h3>Graduate Study</h3>
+<div class="widget bottom">
+<div class="node node-full-width clearfix" id="node-3452">
+<div class="content clearfix">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p>Cognitive Science does not have a graduate program at UC, Berkeley. The cognitive science research community at Berkeley is centered around the <a href="http://icbs.berkeley.edu/" target="blank">Institute of Cognitive and Brain Sciences</a>. Students interested in cognitive science graduate study can receive graduate training in programs in affiliated disciplines, e.g., <a href="http://psychology.berkeley.edu/" target="blank">psychology</a>, <a href="http://linguistics.berkeley.edu/" target="blank">linguistics</a>, <a href="http://neuroscience.berkeley.edu/" target="blank">neuroscience</a>. There is presently no separate graduate program specifically for cognitive science. We are exploring the possibility of starting a cognitive science graduate program in the near future.</p>
+<h3>Honors</h3>
+<p>Students with a 3.3 grade point average overall and in the upper division major courses may apply for admission to the honors program in their senior year. The awarding of honors is contingent upon submission of a thesis of high quality, based upon independent study with a member of the Cognitive Science faculty and marked by satisfactory completion of at least 3 and at most 6 units of course H195A, H195B or 199. Evaluation of the thesis is the responsibility of, first, the faculty supervisor and then of the second reader, both secured by the student. It is the responsibility of the supervisor and the second reader to decide (1) whether the thesis is of honors quality and (2) if of honors quality, which level of honors is to be assigned: Honors, High Honors, or Highest Honors.  Please see the <a href="http://cogsci.berkeley.edu/honors">Cognitive Science program's Honors page for additional details.</a></p>
+<h3>Student Association</h3>
+<p>The Cognitive Science Student Association (CSSA) is a great resource for students interested in Cognitive Science. About the CSSA, from their website: <em>The CSSA regularly coordinates academic events such as guest lectures and information sessions; plans social events like professor-student dinners and cog sci themed gatherings; and works with cognitive science faculty and university officials to provide assistance for students. Additionally, the CSSA teaches its own decal on research methodology, has an academic outreach program, and organizes the annual California Cognitive Science Conference.</em>  <a href="http://cssa.berkeley.edu/index.html">Click here to visit the CSSA website.</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]>
+</academicopportunitiestext>
+<coursestext>
+<![CDATA[
+<h3>Cognitive Science</h3>
+<div id="sc_sccoursedescs">
+<div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 1</span> 
+<span class="title">Introduction to Cognitive Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Spring 2018, Spring 2017<br/>
+This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research from artificial intelligence, pyschology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major methodologies.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Cognitive Science:</span> Read More [+]</a></p>
+<div id="837" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Cognitive Science 1 after completing Cognitive Science N1 or Cognitive Science C1/Education C1. A deficient grade in Cognitive Science C1/Education C1 or Cognitive Science N1 may be removed by taking Cognitive Science 1.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Cognitive Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 1B</span> 
+<span class="title">Introduction to Cognitive Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Fall 2016<br/>
+This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research in such fields as artificial intelligence, psychology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Cognitive Science:</span> Read More [+]</a></p>
+<div id="515" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for N1 after taking Cognitive Science 1 or Cognitive Science C1/Education C1.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Cognitive Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI N1</span> 
+<span class="title">Introduction to Cognitive Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2018 Second 6 Week Session, Summer 2017 Second 6 Week Session, Summer 2016 Second 6 Week Session<br/>
+This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research in such fields as artificial intelligence, psychology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the</span><span class="deschide"> major methodologies.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Cognitive Science:</span> Read More [+]</a></p>
+<div id="644" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for N1 after taking Cognitive Science 1 or Cognitive Science C1/Education C1.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture and 0 hours of laboratory per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Formerly known as:</strong> C1</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Cognitive Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 88</span> 
+<span class="title">Data Science and the Mind</span> 
+<span class="hours">2 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2017, Fall 2016<br/>
+How does the human mind work? We explore this question by analyzing a range of data concerning such topics as human rationality and irrationality, human memory, how objects and events are represented in the mind, and the relation of language and cognition. This class provides students with critical thinking and computing skills that will allow them to work with data in cognitive science and related disciplines.</span><br/>
+ <a href="" class="btn-readmore"><span>Data Science and the Mind:</span> Read More [+]</a></p>
+<div id="24" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This course is meant to be taken concurrently with Computer Science C8/Statistics C8/Information C8. Students may take more than one 88 (data science connector) course if they wish, ideally concurrent with or after having taken the C8 course</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of laboratory, 0.5 hours of discussion, and 0.5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Data Science and the Mind:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 98</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2016, Spring 2015, Fall 2014<br/>
+Seminar for the group study of selected topics. Topics may be initiated by students subject to the approval of the major advisor.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="492" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 99</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2011, Fall 2010<br/>
+Independent study and research by arrangement with faculty.</span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="455" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Restricted to freshmen and sophomores; consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-12 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C100</span> 
+<span class="title">Basic Issues in Cognition</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2015, Spring 2015<br/>
+Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind.</span><br/>
+ <a href="" class="btn-readmore"><span>Basic Issues in Cognition:</span> Read More [+]</a></p>
+<div id="501" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for C120 after taking 120A.&lt;BR/&gt;Students will receive no credit for Psychology C120 after taking Psychology N120. A student who receives a failing grade in PSYCH N120 is eligible to take PSYCH C120 in order to remove the deficient grade in lieu of repeating PSYCH N120.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 5 hours of lecture and 2.5 hours of discussion per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 3.5 hours of lecture and 2 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> PSYCH C120</p></div>
+<p><a href="" class="btn-readless"><span>Basic Issues in Cognition:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI N100</span> 
+<span class="title">Basic Issues in Cognition</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2018 Second 6 Week Session, Summer 2017 Second 6 Week Session<br/>
+Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational</span><span class="deschide"> model of mind.</span><br/>
+ <a href="" class="btn-readmore"><span>Basic Issues in Cognition:</span> Read More [+]</a></p>
+<div id="721" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Psychology N120 after taking Psychology C120&lt;BR/&gt;A student who receives a failing grade in PSYCH c120 is eligible to take PSYCH N120 in order to remove the deficient grade in lieu of repeating PSYCH C120.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> PSYCH N120</p></div>
+<p><a href="" class="btn-readless"><span>Basic Issues in Cognition:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C101</span> 
+<span class="title">Cognitive Linguistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2017 8 Week Session, Summer 2016 10 Week Session, Summer 2016 8 Week Session, Spring 2016<br/>
+Conceptual systems and language from the perspective of cognitive science. How language gives insight into conceptual structure, reasoning, category-formation, metaphorical understanding, and the framing of experience. Cognitive versus formal linguistics. Implications from and for philosophy, anthropology, literature, artificial intelligence, and politics.</span><br/>
+ <a href="" class="btn-readmore"><span>Cognitive Linguistics:</span> Read More [+]</a></p>
+<div id="280" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 1.5 hours of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> G. Lakoff, E. Sweetser</p><p><strong>Formerly known as:</strong> 105</p><p><strong>Also listed as:</strong> LINGUIS C105</p></div>
+<p><a href="" class="btn-readless"><span>Cognitive Linguistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C102</span> 
+<span class="title">Scientific Approaches to Consciousness</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2014, Spring 2013, Spring 2011<br/>
+This course will examine the nature of human consciousness from the interdisciplinary perspective of cognitive science. It will cover topics from the philosophy of mind, cognitive linguistics, neuroscience, psychology, and computational models.<br/>
+Recommended Courses: Psych C120/CogSci C100 OR Psych/CogSci C127</span><br/>
+ <a href="" class="btn-readmore"><span>Scientific Approaches to Consciousness:</span> Read More [+]</a></p>
+<div id="325" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Required courses: Psych 1, Psych W1, Psych 2, OR CogSci 1</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> PSYCH C129</p></div>
+<p><a href="" class="btn-readless"><span>Scientific Approaches to Consciousness:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C104</span> 
+<span class="title">The Mind, Language, and Politics</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2011, Spring 2011, Fall 2009<br/>
+An analysis of contemporary liberal and conservative thought and language, in terms of the basic mechanisms of mind: frames, prototypes, radial categories, contested concepts, conceptual metaphor, metonymy, and blends. The framing of political discourse. The logic of political thought. The purpose of the course is to provide students interested in political and social issues with the tools to analyze the framing of, and logic behind, contemporary</span><span class="deschide"> political discourse.</span><br/>
+ <a href="" class="btn-readmore"><span>The Mind, Language, and Politics:</span> Read More [+]</a></p>
+<div id="24" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> G. Lakoff</p><p><strong>Also listed as:</strong> LINGUIS C104</p></div>
+<p><a href="" class="btn-readless"><span>The Mind, Language, and Politics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C126</span> 
+<span class="title">Perception</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2017, Spring 2016<br/>
+An introduction to principal theoretical constructs and experimental procedures in visual and auditory perception. Topics will include psychophysics; perception of color, space, shape, and motion; pattern recognition and perceptual attention.</span><br/>
+ <a href="" class="btn-readmore"><span>Perception:</span> Read More [+]</a></p>
+<div id="582" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor. 101 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> PSYCH C126</p></div>
+<p><a href="" class="btn-readless"><span>Perception:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C127</span> 
+<span class="title">Cognitive Neuroscience</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Spring 2017<br/>
+This course will examine research investigating the neurological basis of cognition. Material covered will include the study of brain-injured patients, neurophysiological research in animals, and the study of normal cognitive processes in humans with non-invasive behavioral and physiological techniques such as functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), and transcranial magnetic stimulation (TMS). Topics to be</span><span class="deschide"> covered include perception, attention, memory, language, motor control, executive control, and emotion.</span><br/>
+ <a href="" class="btn-readmore"><span>Cognitive Neuroscience:</span> Read More [+]</a></p>
+<div id="474" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Psych/MCB C61 OR Psych 110, or Psych C120/Cog Sci C100, and relevant prerequisites. Courses may be taken simultaneously with Psych C127.&lt;BR/&gt;Enrollment limited to students who are declared Psych, CogSci, MCB, or IB majors, or by permission of the instructor if the student has declared another major</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> PSYCH C127</p></div>
+<p><a href="" class="btn-readless"><span>Cognitive Neuroscience:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 131</span> 
+<span class="title">Computational Models of Cognition</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Fall 2016, Fall 2015<br/>
+This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics</span><span class="deschide"> -- considering the strengths and weaknesses of each.</span><br/>
+ <a href="" class="btn-readmore"><span>Computational Models of Cognition:</span> Read More [+]</a></p>
+<div id="150" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Calculus, discrete mathematics, C1, Computer Science 61A, or equivalents</p><p><strong>Credit Restrictions:</strong> Student will receive no credit for Cognitive Science 131 after taking Cognitive Science C131/Psychology C123. A deficient grade in Cognitive C131/Psychology C123 may be removed by taking Cognitive Science 131.&lt;BR/&gt;</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Computational Models of Cognition:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C131</span> 
+<span class="title">Computational Models of Cognition</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2013, Fall 2011, Fall 2010<br/>
+This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics</span><span class="deschide"> -- considering the strengths and weaknesses of each.</span><br/>
+ <a href="" class="btn-readmore"><span>Computational Models of Cognition:</span> Read More [+]</a></p>
+<div id="21" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Calculus, discrete mathematics, CogSci 1/1b/N1, Computer Science 61A, or equivalents</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Also listed as:</strong> PSYCH C123</p></div>
+<p><a href="" class="btn-readless"><span>Computational Models of Cognition:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C140</span> 
+<span class="title">Quantitative Methods in Linguistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2017, Spring 2016, Spring 2015<br/>
+An introduction to research using quantitative analysis in linguistics and cognitive science. Students will learn how to use the R programming environment for statistical analysis and data visualization.</span><br/>
+ <a href="" class="btn-readmore"><span>Quantitative Methods in Linguistics:</span> Read More [+]</a></p>
+<div id="541" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100 or graduate student standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Gahl</p><p><strong>Also listed as:</strong> LINGUIS C160</p></div>
+<p><a href="" class="btn-readless"><span>Quantitative Methods in Linguistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C142</span> 
+<span class="title">Language and Thought</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2017, Summer 2016, Spring 2016<br/>
+This seminar explores the relation of language and thought. Is language uniquely human, and if so, what does this reveal about the human mind? Does the particular language you speak affect the way you think, or do human languages reflect a universal conceptual repertoire? The goal of this class is to familiarize you with a set of classic arguments on these themes, together with current research that evaluates these arguments, through weekly</span><span class="deschide"> reading and discussion.</span><br/>
+ <a href="" class="btn-readmore"><span>Language and Thought:</span> Read More [+]</a></p>
+<div id="774" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Regier</p><p><strong>Also listed as:</strong> LINGUIS C142</p></div>
+<p><a href="" class="btn-readless"><span>Language and Thought:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI C147</span> 
+<span class="title">Language Disorders</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2015 10 Week Session, Summer 2015 Second 6 Week Session, Spring 2013<br/>
+An introduction to experimental and theoretical research on language disorders, particularly acquired aphasia in adults. Major course themes include the relationship between normal and pathological language, and the usefulness of linguistic analysis for empirical research. Topics include phonetic, phonological, morphological, semantic, syntactic, and pragmatic aspects of language disorders in mono- and</span><span class="deschide"> multilingual speakers of typologically diverse languages.</span><br/>
+ <a href="" class="btn-readmore"><span>Language Disorders:</span> Read More [+]</a></p>
+<div id="287" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Linguistics 100 or consent of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 6 weeks - 7.5 hours of lecture per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Gahl</p><p><strong>Also listed as:</strong> LINGUIS C147</p></div>
+<p><a href="" class="btn-readless"><span>Language Disorders:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 190</span> 
+<span class="title">Special Topics in Cognitive Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Fall 2017, Fall 2016<br/>
+Selected topics in the study of Cognitive Science.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Cognitive Science:</span> Read More [+]</a></p>
+<div id="658" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Cognitive Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI H195A</span> 
+<span class="title">Special Study for Honors Candidates</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2013, Spring 2012, Fall 2011<br/>
+Independent study and preparation of an honors thesis under the supervision of a faculty member.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Study for Honors Candidates:</span> Read More [+]</a></p>
+<div id="979" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Open only to senior cognitive science majors in the honors program</p><p><strong>Repeat rules:</strong> Course may be repeated for credit up to a total of 6 units.Course may be repeated for a maximum of 6 units.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Study for Honors Candidates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI H195B</span> 
+<span class="title">Special Study for Honors Candidates</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2011, Spring 2008, Spring 2007<br/>
+Independent study and preparation of an honors thesis under the supervision of a faculty member.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Study for Honors Candidates:</span> Read More [+]</a></p>
+<div id="533" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Open only to senior cognitive science majors in the honors program</p><p><strong>Repeat rules:</strong> Course may be repeated for credit up to a total of 6 units.Course may be repeated for a maximum of 6 units.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Study for Honors Candidates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 197</span> 
+<span class="title">Academic Internship Credit</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2017 10 Week Session<br/>
+Academic internship credit for students pursuing an internship related to their studies in the Cognitive Science Program. Limited to Cognitive Science declared majors with at least 60 units, and a 2.0 GPA.</span><br/>
+ <a href="" class="btn-readmore"><span>Academic Internship Credit:</span> Read More [+]</a></p>
+<div id="374" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-7 hours of independent study per week</p><p><strong>Summer:</strong> 10 weeks - 4-11 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Academic Internship Credit:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 198</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2016, Fall 2015, Spring 2015<br/>
+Seminar for the group study of selected topics. Topics may be initated by students subject to the approval of the major advisor.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="631" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<h3 class="courseblocktitle">
+<span class="code">COG SCI 199</span> 
+<span class="title">Independent Study in Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+<div class="coursebody">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Fall 2014, Spring 2013<br/>
+Independent study and research by arrangement with faculty.</span><br/>
+ <a href="" class="btn-readmore"><span>Independent Study in Research:</span> Read More [+]</a></p>
+<div id="747" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Restricted to juniors and seniors</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 1.5-7.5 hours of independent study per week</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Cognitive Science/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Independent Study in Research:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>+ </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>Dor Abrahamson, <i>Associate Professor</i>. </strong>Mathematical cognition, design-based research, mixed-media design for mathematics learning environments, embodied interaction.<br/><a href="http://vcresearch.berkeley.edu/node/15068"target="_blank">Research Profile</a></p><p class="facitem"><strong>Martin S. Banks, <i>Professor</i>. </strong>Stereopsis, virtual reality, optometry, multisensory interactions, self-motion perception, vision, depth perception, displays, picture perception, visual ergonomics.<br/><a href="http://vcresearch.berkeley.edu/node/14169"target="_blank">Research Profile</a></p><p class="facitem"><strong>Sonia Bishop, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Roy L. Caldwell, <i>Professor</i>. </strong>Ecology, evolution, Invertebrates, animal behavior, behavioral ecology, marine biology, stomatopods, crustaceans, cephalopods, octopus, mating systems, communication, sensory ecology, aggressive behavior, coral reef restoration.<br/><a href="http://vcresearch.berkeley.edu/node/13865"target="_blank">Research Profile</a></p><p class="facitem"><strong>John Joseph Campbell, <i>Professor</i>. </strong>Theory of meaning; philosophy of mind; causation in psychology.<br/><a href="http://vcresearch.berkeley.edu/node/15006"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jose M. Carmena, <i>Professor</i>. </strong>Brain-machine interfaces, neural ensemble computation, neuroprosthetics, sensorimotor learning and control.<br/><a href="http://vcresearch.berkeley.edu/node/14341"target="_blank">Research Profile</a></p><p class="facitem"><strong>Melinda Chen, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>Clayton Critcher, <i>Assistant Professor</i>. </strong>Judgment and decision making, consumer experience, the self, moral psychology, social cognition.<br/><a href="http://facultybio.haas.berkeley.edu/faculty-list/critcher-clayton/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Mark T. D'Esposito, <i>Professor</i>. </strong>Cognitive neuroscience, psychology, working memory, frontal lobe function, functional MRI, neurology, brain imaging, dopamine.<br/><a href="http://vcresearch.berkeley.edu/node/14624"target="_blank">Research Profile</a></p><p class="facitem"><strong>Terrence W. Deacon, <i>Professor</i>. </strong>Neuroscience, anthropology, cognitive neuroscience, evolutionary biology, neurobiology, semiotics, primates, linguistic theory.<br/><a href="http://vcresearch.berkeley.edu/node/14539"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael Deweese, <i>Assistant Professor</i>. </strong>Machine learning, computation, systems neuroscience, auditory cortex, neural coding.<br/><a href="http://vcresearch.berkeley.edu/node/14649"target="_blank">Research Profile</a></p><p class="facitem"><strong>Susanne Gahl, <i>Associate Professor</i>. </strong>Linguistics, psycholinguistics, linguistic structure, language production, aphasia and related language disorders.<br/><a href="http://vcresearch.berkeley.edu/node/14258"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert J. Glushko, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Alison Gopnik, <i>Professor</i>. </strong>Learning, philosophy, psychology, cognitive development, theory of mind, young children, children's causal knowledge, Bayes Net formalism.<br/><a href="http://vcresearch.berkeley.edu/node/14733"target="_blank">Research Profile</a></p><p class="facitem"><strong>Tom Griffiths, <i>Associate Professor</i>. </strong>Machine learning, computational models of human cognition, Bayesian statistics, cultural evolution.<br/><a href="http://vcresearch.berkeley.edu/node/14745"target="_blank">Research Profile</a></p><p class="facitem"><strong>William F. Hanks, <i>Professor</i>. </strong>Social and cultural anthropology, linguistics, shamanism, language, Yucatan Mexico, Maya culture.<br/><a href="http://vcresearch.berkeley.edu/node/14787"target="_blank">Research Profile</a></p><p class="facitem"><strong>Rich Ivry, <i>Professor</i>. </strong>Cognitive neuroscience, behavior, cognition, brain, attention, coordination, psychology, motor and perceptual processes in normal and neurologically impaired populations, temporal processing, executive control.<br/><a href="http://vcresearch.berkeley.edu/node/14979"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lucia F. Jacobs, <i>Professor</i>. </strong>Cognitive and brain evolution, adaptive patterns in spatial memory, spatial navigation, cognitive sex differences and decision making.<br/><a href="http://vcresearch.berkeley.edu/node/14980"target="_blank">Research Profile</a></p><p class="facitem"><strong>John F. Kihlstrom, <i>Professor</i>. </strong>Personality, behavior, memory, psychology, cognition in personal, social contexts, unconscious mental processes, hypnosis, social cognition, experimental psychopathology, health cognition, unconscious mental life.<br/><a href="http://vcresearch.berkeley.edu/node/14920"target="_blank">Research Profile</a></p><p class="facitem"><strong>Daniel Klein, <i>Professor</i>. </strong>Artificial Intelligence (AI); Natural Language Processing, Computational Linguistics, Machine Learning.<br/><a href="http://vcresearch.berkeley.edu/faculty/daniel-klein"target="_blank">Research Profile</a></p><p class="facitem"><strong>Robert Thomas Knight, <i>Professor</i>. </strong>Cognitive neuroscience, language, physiology, memory, attention, psychology, working memory, neuropsychology, human prefrontal cortex, neural mechanisms of cognitive processing, sensory gating, sustained attention, ad novelty detection.<br/><a href="http://vcresearch.berkeley.edu/node/14930"target="_blank">Research Profile</a></p><p class="facitem"><strong>Paul Li, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Tania Lombrozo, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>Jitendra Malik, <i>Professor</i>. </strong>Artificial Intelligence (AI); Biosystems & Computational Biology (BIO); Control, Intelligent Systems, and Robotics (CIR); Graphics (GR); Human-Computer Interaction (HCI); Signal Processing (SP);.<br/><a href="http://vcresearch.berkeley.edu/faculty/jitendra-malik"target="_blank">Research Profile</a></p><p class="facitem"><strong>Sam A. Mchombo, <i>Associate Professor</i>. </strong>African languages, linguistics, political development, sports and politics, national identity, globalization.</p><p class="facitem"><strong>Srini Narayanan</strong>Artificial intelligence, cognitive science, socially relevant computing, web semantics, cognitive and neural computation, learning and control in complex systems.</p><p class="facitem"><strong>Alva Noe, <i>Professor</i>. </strong>Cognitive science, phenomenology, consciousness, philosophy, theory of perception, theory of art, Wittgenstein, analytic philosophy origins.<br/><a href="http://vcresearch.berkeley.edu/node/14049"target="_blank">Research Profile</a></p><p class="facitem"><strong>Bruno Olshausen, <i>Professor</i>. </strong>Visual perception, computational neuroscience, computational vision.<br/><a href="http://vcresearch.berkeley.edu/node/14277"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael Andrew Ranney, <i>Professor</i>. </strong>Reasoning, learning, cognitive science and society.<br/><a href="http://vcresearch.berkeley.edu/faculty/michael-ranney"target="_blank">Research Profile</a></p><p class="facitem"><strong>Terry Regier, <i>Professor</i>. </strong>Computational methods, language and thought, semantic universals.<br/><a href="http://vcresearch.berkeley.edu/node/15264"target="_blank">Research Profile</a></p><p class="facitem"><strong>Richard Rhodes, <i>Associate Professor</i>. </strong>American Indian languages, lexical semantics, lexicography, Algonquian languages, Ojibwe, Mixe-Zoquean languages, mixed languages, Michif, Sayula Popoluca.<br/><a href="http://vcresearch.berkeley.edu/node/15515"target="_blank">Research Profile</a></p><p class="facitem"><strong>Stuart Russell, <i>Professor</i>. </strong>Artificial intelligence, computational biology, algorithms, machine learning, real-time decision-making, probabilistic reasoning.<br/><a href="http://vcresearch.berkeley.edu/faculty/stuart-j-russell"target="_blank">Research Profile</a></p><p class="facitem"><strong>Geoffrey B. Saxe, <i>Professor</i>. </strong>U.S., developmental psychology, interplay between culture and cognitive development, mathematical cognition in children, Papua New Guinea, urban and rural areas of Northeastern Brazil, elementary school classrooms, cognitive development, mathematics education.<br/><a href="http://vcresearch.berkeley.edu/node/14270"target="_blank">Research Profile</a></p><p class="facitem"><strong>Alan H. Schoenfeld, <i>Professor</i>. </strong>Thinking, teaching, learning, productive learning environments, mathematics education, modeling the process of teaching, understanding how and why teachers do what they do.<br/><a href="http://vcresearch.berkeley.edu/node/15661"target="_blank">Research Profile</a></p><p class="facitem"><strong>+ John R. Searle, <i>Professor </i>. </strong>Philosophy, problems of mind and language.<br/><a href="http://vcresearch.berkeley.edu/node/14050"target="_blank">Research Profile</a></p><p class="facitem"><strong>Arthur P. Shimamura, <i>Professor</i>. </strong>Cognitive neuroscience, behavior, cognition, brain, psychology, frontal lobe function, basic memory research.<br/><a href="http://vcresearch.berkeley.edu/node/15443"target="_blank">Research Profile</a></p><p class="facitem"><strong>Mahesh Srinivasan, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Eve E. Sweetser, <i>Professor</i>. </strong>Subjectivity, syntax, semantics, cognitive linguistics, historical linguistics, Celtic languages, speech act theory, semantic change, grammaticalization, gesture, metaphor, iconicity, viewpoint, construction grammar, semantics of grammatical constructions.</p><p class="facitem"><strong>David Whitney, <i>Professor</i>. </strong>Cognitive neuroscience, cognition, attention, visual perception, vision, visually guided action.<br/><a href="http://vcresearch.berkeley.edu/node/15617"target="_blank">Research Profile</a></p><p class="facitem"><strong>Fei Xu, <i>Professor</i>. </strong>Conceptual development, developmental psychology, cognitive development, language development, social cognition in infants and children, learning in infants and young children, statistical learning and statistical inference, psychology and philosophy, computational models of cognitive development.<br/><a href="http://vcresearch.berkeley.edu/node/15640"target="_blank">Research Profile</a></p><h4>Lecturers</h4><p class="facitem"><strong>David E. Presti, <i>Senior Lecturer SOE</i>. </strong></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Andrea A. diSessa, <i>Professor Emeritus</i>. </strong>Physics and computation cognition.<br/><a href="http://vcresearch.berkeley.edu/faculty/andrea-disessa"target="_blank">Research Profile</a></p><p class="facitem"><strong>Susan M. Ervin-Tripp, <i>Professor Emeritus</i>. </strong>Sociolinguistics, psychologist, pragmatics, child language, bilingualism.<br/><a href="http://vcresearch.berkeley.edu/node/15556"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jerome A. Feldman, <i>Professor Emeritus</i>. </strong>Artificial Intelligence (AI); Biosystems & Computational Biology (BIO); Security (SEC); cognitive science.<br/><a href="http://vcresearch.berkeley.edu/faculty/jerome-feldman"target="_blank">Research Profile</a></p><p class="facitem"><strong>Charles Fillmore, <i>Professor Emeritus</i>. </strong></p><p class="facitem"><strong>Ervin R. Hafter, <i>Professor Emeritus</i>. </strong></p><p class="facitem"><strong>Paul Kay, <i>Professor Emeritus</i>. </strong>Linguistics, sociolinguistics, linguistic anthropology, pragmatics, syntax, semantics, lexicon, grammar, color naming, lexical semantics, grammatical variation, cross-language color naming, the encoding of contextual relations in rules of grammar.<br/><a href="http://vcresearch.berkeley.edu/node/14914"target="_blank">Research Profile</a></p><p class="facitem"><strong>George P. Lakoff, <i>Professor Emeritus</i>. </strong>Mathematics, literature, philosophy, cognitive linguistics, the neural theory of language, conceptual systems, conceptual metaphor, syntax-semantics-pragmatics, the application of cognitive linguistics to politics.<br/><a href="http://vcresearch.berkeley.edu/node/14994"target="_blank">Research Profile</a></p><p class="facitem"><strong>John J. Ohala, <i>Professor Emeritus</i>. </strong>Linguistics, experimental phonology, phonetics, historical phonology, ethological aspects of communication, speech technology, automatic recognition of speech, diverse behavioral phenomena.<br/><a href="http://vcresearch.berkeley.edu/node/15198"target="_blank">Research Profile</a></p><p class="facitem"><strong>Stephen E. Palmer, <i>Professor Emeritus</i>. </strong>Psychology, visual perception, visual processing.<br/><a href="http://vcresearch.berkeley.edu/node/15368"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kaiping Peng, <i>Professor Emeritus</i>. </strong>Psychology, East Asian studies, social cultural sychology, reasoning and judgment across cultures and domains, inter-ethnic, racial relations, cross-cultural communication and understanding.<br/><a href="http://vcresearch.berkeley.edu/node/15374"target="_blank">Research Profile</a></p><p class="facitem"><strong>William Prinzmetal, <i>Adjunct Professor Emeritus</i>. </strong>Behavior, cognition, brain, attention, psychology, visual perception.<br/><a href="http://vcresearch.berkeley.edu/node/15384"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lynn C. Robertson, <i>Professor Emeritus</i>. </strong>Cognitive neuroscience, attention, psychology, representations of objects and space, visual search, binding mechanisms, perceptual organization in normal and neurological populations, functional hemisphere asymmetries, spatial deficits.<br/><a href="http://vcresearch.berkeley.edu/node/15273"target="_blank">Research Profile</a></p><p class="facitem"><strong>Eleanor Rosch, <i>Professor Emeritus</i>. </strong>Cognition, psychology, concepts, Eastern psychologies, psychologies of religion, cross cultural, causality.<br/><a href="http://vcresearch.berkeley.edu/node/15282"target="_blank">Research Profile</a></p><p class="facitem"><strong>Dan I. Slobin, <i>Professor Emeritus</i>. </strong>Sociolinguistics, behavior, cognition, brain, psycholinguistics, psychology, language and cognitive development, sign language, cross-cultural.<br/><a href="http://vcresearch.berkeley.edu/node/15461"target="_blank">Research Profile</a></p><p class="facitem"><strong>Lotfi A. Zadeh, <i>Professor Emeritus</i>. </strong>Artificial intelligence, linguistics, control theory, logic, fuzzy sets, decision analysis, expert systems neural networks, soft computing, computing with words, computational theory of perceptions and precisiated natural language.<br/><a href="http://vcresearch.berkeley.edu/faculty/lotfi-zadeh"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+
